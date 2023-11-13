@@ -1,4 +1,7 @@
-
+###Hi there!
+- 🎓 Currently Studying Computer Engineering
+- ♟️ Chess player, coach and enjoyer! Challenge me to a game hehe
+- 🏋️‍♂️ Fitness as a lifestyle!
 <!--
 **AlbertGoTri/AlbertGoTri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
