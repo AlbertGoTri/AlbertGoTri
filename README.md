@@ -1,4 +1,4 @@
-###Hi there!
+Hi there!
 - 🎓 Currently Studying Computer Engineering
 - ♟️ Chess player, coach and enjoyer! Challenge me to a game hehe
 - 🏋️‍♂️ Fitness as a lifestyle!
