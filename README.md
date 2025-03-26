@@ -89,7 +89,6 @@
 ###
 
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/AlbertGoTri/AlbertGoTri/output/snake.svg" alt="Snake animation" />
 
 ###
