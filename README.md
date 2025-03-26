@@ -97,3 +97,5 @@
 <p align="left">Currentlly looking for an Internship starting in June/September</p>
 
 ###
+
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/AlbertGoTri/AlbertGoTri/output/github-contribution-grid-snake.svg" />
