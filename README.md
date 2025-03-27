@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Albert, and I'm a Computer Engineering student from Barcelona, passionate about chess, human towers and music</h2>
+<h2 align="left">Hi! My name is Albert, and I'm a Computer Engineering student from Barcelona, passionate about chess, human towers and music 🎵</h2>
 
 ###
 <img align="right" height="175" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRacqsHOEGdm0q2GbOIn-4KYJgjaztbc4PtzvYD7n7Y8znp6eYYnCpsL-pZ-ZNzSAav7MQ&usqp=CAU"  />
