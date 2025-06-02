@@ -61,5 +61,3 @@
 <img src="https://raw.githubusercontent.com/AlbertGoTri/AlbertGoTri/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<p align="left">Currentlly looking for an Internship starting in June/September</p>
