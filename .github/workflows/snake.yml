@@ -31,4 +31,5 @@ jobs:
           cp -r dist/* .
           git add *.svg *.gif
           git commit -m "Update snake [skip ci]" || echo "No changes to commit"
-          git push origin output
+          git push --force https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git output
+
