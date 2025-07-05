@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Albert, and I'm a Computer Engineering student from Barcelona, passionate about chess, human towers and music 🎵</h2>
+<h2 align="left">Computer Engineering student passionate about cloud infrastructure, DevOps, and AI operations. Constantly learning and building towards MLOps and scalable systems.</h2>
 
 ###
 
