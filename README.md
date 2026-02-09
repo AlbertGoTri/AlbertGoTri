@@ -17,9 +17,6 @@ Managed cloud infrastructure and automated deployments with Azure DevOps, Kubern
 
 ### 🔬 Featured Projects
 
-* **[rectified-flow-text](https://github.com/AlbertGoTri/rectified-flow-text)** (Final Degree Thesis)
-  Researching and implementing **Rectified Flow** models for text generation using PyTorch.
-
 * **[AI-Powered K8s Generator](https://github.com/AlbertGoTri/AI-Powered-Kubernetes-YAML-Generator)**
   Automating the creation of Kubernetes manifests from high-level specifications using AI to streamline CI/CD workflows.
 
