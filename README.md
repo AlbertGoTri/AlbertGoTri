@@ -10,7 +10,7 @@ Helsinki, Finland • [albertgotri03@gmail.com](mailto:albertgotri03@gmail.com)
 **AI Engineer Intern | Nordhealth** *(Current)*
 Designing advanced Prompt Engineering and evaluation pipelines for LLMs in clinical use cases. Focused on model reliability, safety (hallucination analysis), and healthcare benchmarks.
 
-**DevOps Engineer | Itequia** *(Previous)*
+**DevOps & Cloud Engineer Intern | Itequia** *(Previous)*
 Managed cloud infrastructure and automated deployments with Azure DevOps, Kubernetes, and CI/CD pipelines.
 
 ---
