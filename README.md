@@ -17,7 +17,7 @@ Managed cloud infrastructure and automated deployments with Azure DevOps, Kubern
 
 ### 🔬 Featured Projects
 
-* **[AI-Powered K8s Generator](https://github.com/AlbertGoTri/AI-Powered-Kubernetes-YAML-Generator)**
+* **[AI-Powered K8s Generator](https://github.com/AlbertGoTri/DevOps-Spec-Compiler)**
   Automating the creation of Kubernetes manifests from high-level specifications using AI to streamline CI/CD workflows.
 
 * **[AI Commit Buddy](https://github.com/AlbertGoTri/AI-Commit-Buddy)**
